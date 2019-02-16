@@ -1,18 +1,18 @@
 Node Script to convert numbers into words
 
-//install packages
+install packages
 
 ```
 $ npm install
 ```
 
-// run via terminal 
+run via terminal 
 
 ```
 $ node index.js 2 -> two
 ```
 
-// run test 
+run test 
 
 ```
 $ npm test
