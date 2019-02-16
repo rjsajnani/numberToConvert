@@ -9,7 +9,8 @@ $ npm install
 run via terminal 
 
 ```
-$ node index.js 2 -> two
+$ node index.js 2 
+two
 ```
 
 run test 
